@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "逆夢 - Sakayume",
+  "base_artist": "King Gnu",
+  "createdAt": "2026-03-19T18:16:45.800098Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "逆夢",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/01_逆夢_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "逆夢",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/02_逆夢_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "逆夢 - Sakayume",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/03_逆夢_-_Sakayume_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "逆夢",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/04_逆夢_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "逆夢",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/05_逆夢_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "逆夢",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/06_逆夢_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "07 - 逆夢",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/07_07_-_逆夢_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sakayume 「逆夢」",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/08_Sakayume_「逆夢」_King_Gnu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "逆夢",
+      "artist": "King Gnu",
+      "has_synced": false,
+      "path": "select/pl_01_逆夢_King_Gnu.txt"
+    }
+  ]
+}
