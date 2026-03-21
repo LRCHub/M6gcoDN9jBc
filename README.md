@@ -1,4 +1,4 @@
-# King Gnu – 逆夢 - Sakayume
+# King Gnu – 逆夢
 
 > **歌詞登録ステータス：同期歌詞あり**
 
