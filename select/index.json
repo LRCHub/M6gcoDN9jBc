@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "逆夢 - Sakayume",
+  "base_track": "逆夢",
   "base_artist": "King Gnu",
-  "createdAt": "2026-03-19T18:16:45.800098Z",
+  "createdAt": "2026-03-21T16:52:53.508088Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -75,6 +75,24 @@
       "artist": "King Gnu",
       "has_synced": false,
       "path": "select/pl_01_逆夢_King_Gnu.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "逆夢",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/localdb_01_逆夢_King_Gnu.lrc",
+      "repo_name": "M6gcoDN9jBc"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "逆夢",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/localdb_02_逆夢_King_Gnu.lrc",
+      "repo_name": "6raatAsbKQ0"
     }
   ]
 }
